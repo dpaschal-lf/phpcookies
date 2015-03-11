@@ -1,7 +1,7 @@
 <?php
-$value = 'PHP is awesome';
+$value = 'penguins are where its at!';
 
-setcookie("learningfuze", $value);
+setcookie("learningfuze3", $value);
 //we set a cookie here.  We are not using it anywhere in the page
 ?>
 <!doctype html>
